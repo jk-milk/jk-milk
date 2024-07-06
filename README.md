@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Yoo%20JK&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20JK's%20GitHub%20&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 <!--
 **jk-milk/jk-milk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
