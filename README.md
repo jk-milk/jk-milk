@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:yjkeong@naver.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"> 
     </a>
     <a href="mailto:yjkeong@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
